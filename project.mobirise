@@ -415,8 +415,8 @@
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#8fafc3",
-            "transparent": true,
-            "sticky": false,
+            "transparent": false,
+            "sticky": true,
             "logo": false,
             "showBrand": true,
             "hideButtons": false
@@ -593,8 +593,8 @@
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#8fafc3",
-            "transparent": true,
-            "sticky": false,
+            "transparent": false,
+            "sticky": true,
             "logo": false,
             "showBrand": true,
             "hideButtons": false
@@ -659,8 +659,8 @@
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#8fafc3",
-            "transparent": true,
-            "sticky": false,
+            "transparent": false,
+            "sticky": true,
             "logo": false,
             "showBrand": true,
             "hideButtons": false
@@ -855,8 +855,8 @@
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#8fafc3",
-            "transparent": true,
-            "sticky": false,
+            "transparent": false,
+            "sticky": true,
             "logo": false,
             "showBrand": true,
             "hideButtons": false
