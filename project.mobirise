@@ -17,7 +17,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 42,
+    "uniqCompNum": 49,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/1-128x74.png",
     "noImageResize": "",
@@ -32,68 +32,13 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Quality Expert ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#b3a5ba"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#a999b1"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-0",
-          "_params": {
-            "bgColor": "#b3a5ba",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-219x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality&nbsp;Expert</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>ЯЗЫК</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"company.html\"><strong>О КОМПАНИИ</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\"><strong>УСЛУГИ</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><strong>КОНТАКТЫ</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://drive.google.com/file/d/0ByUZfkNfWmNSZFhoZmJuaUxsSGM/view?usp=sharing\" target=\"_blank\">СКАЧАТЬ ПРЕЗЕНТАЦИЮ</a></li>"
-        },
         {
           "alias": "unicore/components",
           "_tags": [
@@ -435,6 +380,61 @@
           "text2": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
           "title3": "Ш-2, 4/1, <br>Респ. Татарстан,<br>Россия, 423606",
           "text3": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum."
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#8fafc3"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#3f51b5"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#3a4aa6"
+            },
+            ".navbar-toggler": {
+              "color": "#8fafc3"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-x",
+          "_params": {
+            "bgColor": "#3f51b5",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#8fafc3",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1-219x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality&nbsp;Expert</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>ЯЗЫК</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"company.html\"><strong>О КОМПАНИИ</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\"><strong>УСЛУГИ</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><strong>КОНТАКТЫ</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://drive.google.com/file/d/0ByUZfkNfWmNSZFhoZmJuaUxsSGM/view?usp=sharing\" target=\"_blank\">СКАЧАТЬ <br>ПРЕЗЕНТАЦИЮ</a></li>"
         }
       ]
     },
@@ -571,16 +571,16 @@
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#ffffff"
+              "color": "#8fafc3"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#b3a5ba"
+              "background": "#3f51b5"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#a999b1"
+              "background": "#3a4aa6"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#8fafc3"
             }
           },
           "_tags": [
@@ -589,20 +589,20 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-q",
           "_params": {
-            "bgColor": "#b3a5ba",
+            "bgColor": "#3f51b5",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
+            "fontColor": "#8fafc3",
+            "transparent": true,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-219x128.png",
+              "src": "@PROJECT_PATH@/assets/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1-219x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -612,7 +612,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality&nbsp;Expert</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>ЯЗЫК</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"company.html\"><strong>О КОМПАНИИ</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\"><strong>УСЛУГИ</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><strong>КОНТАКТЫ</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://drive.google.com/file/d/0ByUZfkNfWmNSZFhoZmJuaUxsSGM/view?usp=sharing\" target=\"_blank\">СКАЧАТЬ ПРЕЗЕНТАЦИЮ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>ЯЗЫК</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"company.html\"><strong>О КОМПАНИИ</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\"><strong>УСЛУГИ</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><strong>КОНТАКТЫ</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://drive.google.com/file/d/0ByUZfkNfWmNSZFhoZmJuaUxsSGM/view?usp=sharing\" target=\"_blank\">СКАЧАТЬ <br>ПРЕЗЕНТАЦИЮ</a></li>"
         }
       ]
     },
@@ -637,16 +637,16 @@
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#ffffff"
+              "color": "#8fafc3"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#b3a5ba"
+              "background": "#3f51b5"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#a999b1"
+              "background": "#3a4aa6"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#8fafc3"
             }
           },
           "_tags": [
@@ -655,20 +655,20 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-h",
           "_params": {
-            "bgColor": "#b3a5ba",
+            "bgColor": "#3f51b5",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
+            "fontColor": "#8fafc3",
+            "transparent": true,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-219x128.png",
+              "src": "@PROJECT_PATH@/assets/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1-219x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -678,7 +678,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality&nbsp;Expert</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>ЯЗЫК</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"company.html\"><strong>О КОМПАНИИ</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\"><strong>УСЛУГИ</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><strong>КОНТАКТЫ</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://drive.google.com/file/d/0ByUZfkNfWmNSZFhoZmJuaUxsSGM/view?usp=sharing\" target=\"_blank\">СКАЧАТЬ ПРЕЗЕНТАЦИЮ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>ЯЗЫК</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"company.html\"><strong>О КОМПАНИИ</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\"><strong>УСЛУГИ</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><strong>КОНТАКТЫ</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://drive.google.com/file/d/0ByUZfkNfWmNSZFhoZmJuaUxsSGM/view?usp=sharing\" target=\"_blank\">СКАЧАТЬ <br>ПРЕЗЕНТАЦИЮ</a></li>"
         },
         {
           "alias": "unicore/components",
@@ -775,7 +775,7 @@
     },
     "services.html": {
       "settings": {
-        "title": "",
+        "title": "Quality Expert ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -833,16 +833,16 @@
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#ffffff"
+              "color": "#8fafc3"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#b3a5ba"
+              "background": "#3f51b5"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#a999b1"
+              "background": "#3a4aa6"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#8fafc3"
             }
           },
           "_tags": [
@@ -851,20 +851,20 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-x",
           "_params": {
-            "bgColor": "#b3a5ba",
+            "bgColor": "#3f51b5",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
+            "fontColor": "#8fafc3",
+            "transparent": true,
             "sticky": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-219x128.png",
+              "src": "@PROJECT_PATH@/assets/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1-219x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -874,7 +874,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Quality&nbsp;Expert</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>ЯЗЫК</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"company.html\"><strong>О КОМПАНИИ</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\"><strong>УСЛУГИ</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><strong>КОНТАКТЫ</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://drive.google.com/file/d/0ByUZfkNfWmNSZFhoZmJuaUxsSGM/view?usp=sharing\" target=\"_blank\">СКАЧАТЬ ПРЕЗЕНТАЦИЮ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><strong>ЯЗЫК</strong></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"company.html\"><strong>О КОМПАНИИ</strong></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\"><strong>УСЛУГИ</strong></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><strong>КОНТАКТЫ</strong></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://drive.google.com/file/d/0ByUZfkNfWmNSZFhoZmJuaUxsSGM/view?usp=sharing\" target=\"_blank\">СКАЧАТЬ <br>ПРЕЗЕНТАЦИЮ</a></li>"
         },
         {
           "title": "CONTACT FORM",
